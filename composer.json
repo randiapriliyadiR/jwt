@@ -1,0 +1,12 @@
+{
+    "name": "randi/randi",
+    "authors": [
+        {
+            "name": "Randi Apriliyadi",
+            "email": "86870664+randiapriliyadiR@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^5.4"
+    }
+}
